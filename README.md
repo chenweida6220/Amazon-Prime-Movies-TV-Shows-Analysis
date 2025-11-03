@@ -47,4 +47,5 @@ This project analyzes Amazon Prime Video’s global catalog of movies and TV sho
 * [Tableau Dashboard: Amazon Prime Movies & TV Shows Till 2021](https://public.tableau.com/app/profile/dawae/viz/AmazonPrimeMoviesTVShowsTill2021/amazonprimemoviesdashboard)
 
 ## Getting Started
-Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](/Amazon%20Prime%20Movies%20&%20TV%20Shows%20Till%202021/Raw%20data/amazon_prime_titles.csv) within this repo.    
