@@ -14,7 +14,7 @@ This project analyzes Amazon Prime Video’s global catalog of movies and TV sho
 - [x] Identify the dominant content categories & thematic focus.
 - [x] Synthesize a comprehensive strategic narrative.
 
-# Dashboards
+# Dashboard
 ![Amazon Prime Movies & TV Shows Till 2021_dashboard](/Amazon%20Prime%20Movies%20&%20TV%20Shows%20Till%202021/Amazon%20Prime%20Movies%20&%20TV%20Shows%20Till%202021_dashboard.png)
 
 # Key Findings
