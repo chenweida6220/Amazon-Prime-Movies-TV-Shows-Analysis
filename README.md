@@ -1,4 +1,4 @@
-# Amazon-Prime-Movies-TV-Shows-Analysis
+# Amazon Prime Movies & TV Shows Analysis
 This project analyzes Amazon Prime Video’s global catalog of movies and TV shows using a dataset from Kaggle. The goal was to uncover trends in content distribution, audience ratings, genre diversity, and release timelines to understand Amazon Prime’s strategic positioning in the streaming market. Through exploratory data analysis and visual storytelling, the project highlights how the platform balances its vast movie library, a growing portfolio of original TV series, and a mix of mature and family-friendly offerings.
 
 # Dataset
