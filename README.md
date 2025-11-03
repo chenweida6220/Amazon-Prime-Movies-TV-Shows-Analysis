@@ -2,7 +2,7 @@
 This project analyzes Amazon Prime Video’s global catalog of movies and TV shows using a dataset from Kaggle. The goal was to uncover trends in content distribution, audience ratings, genre diversity, and release timelines to understand Amazon Prime’s strategic positioning in the streaming market. Through exploratory data analysis and visual storytelling, the project highlights how the platform balances its vast movie library, a growing portfolio of original TV series, and a mix of mature and family-friendly offerings.
 
 # Dataset
-Amazon Prime Movies and TV Shows
+## Amazon Prime Movies and TV Shows
 * **Author:** Shivam Bansal
 * **Source:** [Kaggle Link](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 * **About:** Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime, along with details such as - cast, directors, ratings, release year, duration, etc.
