@@ -18,25 +18,25 @@ This project analyzes Amazon Prime Video’s global catalog of movies and TV sho
 ![Amazon Prime Movies & TV Shows Till 2021_dashboard](/Amazon%20Prime%20Movies%20&%20TV%20Shows%20Till%202021/Amazon%20Prime%20Movies%20&%20TV%20Shows%20Till%202021_dashboard.png)
 
 # Key Findings
-## 1. Dominance of Teen & Adult Content
+### 1. Dominance of Teen & Adult Content
 - Ratings for 13+ and 16+ audiences make up the majority of the catalog (over 6,000 titles).  
 - This suggests Amazon Prime primarily caters to mature viewers seeking drama, action, and thriller content.
-## 2. Family-Friendly Gap
+### 2. Family-Friendly Gap
 - Only about 1,900 titles are rated for general or kid audiences, less than the 13+ category alone.  
 - Family-oriented TV content remains limited compared to competitors like Disney+.
-## 3. Movies Define the Platform
+### 3. Movies Define the Platform
 - Movies make up ~81% of the total library, meaning the platform’s overall content strategy is film-centric.  
 - TV shows represent a smaller but higher-value portion focused on original and exclusive series.
-## 4. Rapid Content Expansion Post-2010
+### 4. Rapid Content Expansion Post-2010
 - The dataset shows an exponential growth curve in new releases from 2010–2020, aligning with the rise of the “Streaming Wars.”  
 - A temporary dip around 2020 reflects pandemic-related production slowdowns.
-## 5. Genre Concentration in Drama & Comedy
+### 5. Genre Concentration in Drama & Comedy
 - Drama and Comedy dominate, both as pure and hybrid genres (e.g., Drama, Suspense or Comedy, Drama).  
 - The presence of Animation, Kids, and Documentary in the top genres shows a strategic effort to broaden appeal.
-## 6. Rise of Original TV Series
+### 6. Rise of Original TV Series
 - TV content saw a sharp increase after 2015, likely corresponding with Amazon’s investment in prestige original series.  
 - Though TV shows form only 19% of titles, they represent the most strategically important content segment.
-## 7. Unrated and Specialty Content
+### 7. Unrated and Specialty Content
 - About 328 titles are Not Rated (NR or TV-NR), reflecting independent, international, or classic films—an appealing niche for cinephiles.
 
 # Technologies
